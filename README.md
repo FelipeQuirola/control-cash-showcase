@@ -22,7 +22,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="220" alt="Home screen">
+  <img src="assets/screenshots/homes.png" width="220" alt="Home screen">
   <img src="assets/screenshots/accounts.png" width="220" alt="Accounts">
   <img src="assets/screenshots/categories.png" width="220" alt="Categories">
 </p>
